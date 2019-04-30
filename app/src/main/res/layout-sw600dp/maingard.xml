@@ -1,0 +1,284 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    tools:context=".DartboardActivity" >
+
+    <RelativeLayout
+        android:id="@+id/game_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/buttons"
+        android:layout_alignParentTop="true"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin" >
+
+
+
+        <TextView
+                android:id="@+id/TextView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="اسم المستخدم"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/FontColorLogin"
+                android:textSize="25sp" />
+
+
+        <TextView
+                android:id="@+id/TextView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:layout_toLeftOf="@+id/TextView1"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/FontColorLogin"
+                android:textSize="25sp" />
+
+
+        <TextView
+                android:id="@+id/TextView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/TextView1"
+                android:layout_marginTop="20dp"
+                android:layout_alignParentRight="true"
+                android:text="اسم البوابة"
+                android:textColor="@color/FontColorLogin"
+                android:textSize="25sp" />
+
+
+        <Spinner
+                android:id="@+id/spinner1"
+                android:layout_width="250dp"
+                android:background="@color/White"
+                android:textColor="@color/FontColorLogin"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:layout_toLeftOf="@+id/TextView3"
+                android:layout_below="@+id/TextView2"
+                android:layout_marginRight="60dp"
+
+
+                />
+
+
+
+        <TextView
+                android:id="@+id/TextView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/TextView3"
+                android:layout_marginTop="20dp"
+                android:layout_alignParentRight="true"
+                android:text="الاتجاه"
+                android:textColor="@color/FontColorLogin"
+                android:textSize="25sp" />
+
+        <RadioGroup
+                android:id="@+id/radioGroup1"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginTop="20dp"
+                android:layout_below="@+id/TextView3"
+                android:layout_alignRight="@+id/spinner1"
+                android:orientation="horizontal" >
+
+            <RadioButton
+                    android:id="@+id/radio1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center|right"
+                    android:button="@null"
+                    android:drawableRight="@drawable/checkbox_background"
+                    android:text="خروج"
+                    android:layout_weight="1"
+                    android:textColor="@color/FontColorLogin"
+                    android:textSize="25sp" />
+
+            <RadioButton
+                    android:id="@+id/radio0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:button="@null"
+                    android:layout_marginLeft="40dp"
+                    android:checked="true"
+                    android:drawableRight="@drawable/checkbox_background"
+                    android:text="دخول"
+                    android:textColor="@color/FontColorLogin"
+                    android:textSize="25sp" />
+        </RadioGroup>
+
+        <TextView
+                android:id="@+id/TextView6"
+                android:layout_width="wrap_content"
+                android:layout_below="@+id/radioGroup1"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="رقم الشركة"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/FontColorLogin"
+                android:textSize="25sp" />
+
+        <EditText
+                android:id="@+id/EditText"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:maxLength="5"
+                android:layout_toLeftOf="@+id/TextView3"
+                android:layout_alignBaseline="@+id/TextView6"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="10dp"
+                android:hint="رقم الشركة"
+                android:text=""
+                android:inputType="number"
+                android:textColor="@color/FontColorLogin"
+                android:textCursorDrawable="@null"
+                android:textSize="25sp" />
+
+
+
+
+        <TextView
+                android:id="@+id/TextView7"
+                android:layout_width="wrap_content"
+                android:layout_below="@+id/TextView6"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="عدد الدخول"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/FontColorLogin"
+                android:textSize="25sp" />
+
+        <TextView
+                android:id="@+id/TextView8"
+                android:layout_width="wrap_content"
+                android:layout_below="@+id/TextView6"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:layout_toLeftOf="@+id/TextView7"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/FontColorLogin"
+                android:textSize="25sp" />
+
+        <TextView
+                android:id="@+id/TextView9"
+                android:layout_width="wrap_content"
+                android:layout_below="@+id/TextView7"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="عدد الخروج"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/FontColorLogin"
+                android:textSize="25sp" />
+
+
+        <TextView
+                android:id="@+id/TextView11"
+                android:layout_width="wrap_content"
+                android:layout_below="@+id/TextView9"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="الملاحظات"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/FontColorLogin"
+                android:textSize="25sp" />
+
+
+        <EditText
+                android:id="@+id/editText"
+                android:layout_width="wrap_content"
+                android:layout_below="@+id/TextView9"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@+id/TextView11"
+                android:layout_marginLeft="50dp"
+                android:hint="الملاحظات"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/FontColorLogin"
+                android:textCursorDrawable="@null"
+                android:textSize="25sp"
+
+      />
+
+
+        <TextView
+                android:id="@+id/TextView10"
+                android:layout_width="wrap_content"
+                android:layout_below="@+id/TextView7"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:layout_toLeftOf="@+id/TextView9"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/FontColorLogin"
+                android:textSize="25sp" />
+
+        <Button
+                android:id="@+id/button1"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_alignBaseline="@+id/EditText"
+                android:background="@drawable/search"
+                android:visibility="invisible"
+                android:layout_toLeftOf="@+id/EditText"
+                android:textColor="@color/FontColorLogin" />
+
+        <Button
+                android:id="@+id/button53"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/line"
+                android:layout_below="@+id/TextView11"/>
+
+        <ListView
+                android:id="@+id/android:list"
+                android:layout_width="match_parent"
+                android:layout_height="500dp"
+                android:layout_below="@+id/button53"
+                android:layout_marginBottom="16dp" >
+        </ListView>
+
+
+        />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/buttons"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:background="#333"
+        android:orientation="horizontal" >
+
+        
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200dp"
+            android:background="@drawable/sync" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="70dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/save" /> 
+                    
+    </LinearLayout>
+
+</RelativeLayout>

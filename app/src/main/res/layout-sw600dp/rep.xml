@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/TableLayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="30dp"
+    android:orientation="vertical" >
+
+    <TableRow
+        android:id="@+id/TableRow05"
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="4dp"
+        
+        android:background="@drawable/trans03" >
+
+        <TextView
+            android:id="@+id/textView2"
+            android:textColor="@color/FontColorLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="رقم الباص"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="رقم اللوحة"
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/FontColorLogin" />
+
+        <TextView
+            android:id="@+id/TextView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="التاريخ"
+            android:textColor="@color/FontColorLogin"
+            android:textSize="20sp" />
+
+        <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="السينك"
+                android:textColor="@color/FontColorLogin"
+                android:textSize="20sp" />
+
+        <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:text=""
+                android:textColor="@color/FontColorLogin"
+                android:textSize="20sp" />
+
+    </TableRow>
+
+</TableLayout>

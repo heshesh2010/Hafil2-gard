@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\debug\AndroidManifest.xml:2:1-4:12
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\debug\AndroidManifest.xml:2:1-4:12
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\debug\AndroidManifest.xml:2:1-4:12
+	package
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\debug\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:7:11-36
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:7:11-36
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:6:11-34
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:6:11-34
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\debug\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:5:11-41
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:5:11-41
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:16:22-62
+application
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:18:5-46:19
+	android:label
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:20:13-45
+	tools:ignore
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:22:9-48
+	android:icon
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:19:13-49
+	android:allowBackup
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:21:13-39
+activity#com.itcfox.Hafil2_gard.splashScreen
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:24:9-32:20
+	android:noHistory
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:25:19-43
+	android:theme
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:26:19-66
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:24:19-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:29:17-68
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.itcfox.Hafil2_gard.MainGard
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:33:9-34:68
+	android:theme
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:34:19-66
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:33:19-43
+activity#com.itcfox.Hafil2_gard.LoginActivity
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:37:9-41:20
+	android:noHistory
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:39:17-41
+	android:theme
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:40:17-64
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:38:17-46
+activity#com.itcfox.Hafil2_gard.MainBoardActivity
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:43:9-44:68
+	android:theme
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:44:19-66
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml:43:19-52
+uses-sdk
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\debug\AndroidManifest.xml:3:5-79
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Hafil2-gard\app\src\debug\AndroidManifest.xml:3:22-76

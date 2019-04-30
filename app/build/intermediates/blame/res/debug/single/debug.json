@@ -1,0 +1,574 @@
+[
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_activity_gard_adapter.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-sw600dp\\activity_gard_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_tab_host_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_tab_host_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_save.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_taskeen.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_taskeen.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_tjamo3_last_date.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\tjamo3_last_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_glass_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\glass_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_locations.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_locations.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_other.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_other.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_motor.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_motor.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_addpoint.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\addpoint.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-sw600dp\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_rep.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\rep.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_activity_login.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-sw600dp\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gard.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\gard.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_radiooff.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\radiooff.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_tab_host.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\tab_host.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_glass.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_glass.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_tab_host.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_tab_host.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_takeef_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_takeef_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_addtaskeen.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\addtaskeen.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_transparentwide.jpg.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\transparentwide.jpg"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_ttabo3_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\ttabo3_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hefz.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\hefz.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_masasmallr.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\masasmallr.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_rep.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-sw600dp\\rep.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_kfraat.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_kfraat.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_galleryoff.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\galleryoff.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sync.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\sync.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_ttabo3.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_ttabo3.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_geropix_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\geropix_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_motor_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\motor_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_activity_main_board.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-sw600dp\\activity_main_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_saveoff.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\saveoff.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_bus_inofmation.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\bus_inofmation.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_glass_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_glass_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_sto_points.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\sto_points.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_sto_points.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_sto_points.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_masasmallr.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\masasmallr.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_addtaskeen.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\addtaskeen.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_repgard.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-sw600dp\\repgard.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_password.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_other_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\other_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_battery.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\battery.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tajmo.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\tajmo.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_tjamo3_points.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_tjamo3_points.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_trans03.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\trans03.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_geropix_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_geropix_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_radiooff.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\radiooff.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_taskeen_lastdays.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_taskeen_lastdays.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_trans03.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\trans03.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_rest_pass.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_rest_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_main_board.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_main_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rep.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\rep.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_checkbox_background.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\checkbox_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_syncoff.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\syncoff.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_bus_inofmation_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_bus_inofmation_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_syncoff.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\syncoff.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_tjamo3_points.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\tjamo3_points.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_savelocations.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\savelocations.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_other_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_other_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_reptjamo3.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\reptjamo3.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_close.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_reptjamo3first.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\reptjamo3first.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_login.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tajmo.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\tajmo.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hefz.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\hefz.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_board.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\main_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_takeef.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\takeef.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cameraoff.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\cameraoff.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_save.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_check.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_spinner_item.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-sw600dp\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_update.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\update.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_bus_inofmation.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_bus_inofmation.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bglogo.jpg.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\bglogo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gard.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\gard.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cameraoff.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\cameraoff.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_geropix.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\geropix.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_galleryoff.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\galleryoff.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_glass.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\glass.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_trans01.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\trans01.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_camera.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkbox_background.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\checkbox_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_radioon.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\radioon.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loginwithtext.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\loginwithtext.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_splash_screen.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_tjamo3_last_date.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_tjamo3_last_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_addmasar.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\addmasar.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_trans01.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\trans01.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_schools.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\schools.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_motor.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\motor.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_takeef_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\takeef_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_battery.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_battery.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_last_taskeen.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_last_taskeen.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_ttabo3_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_ttabo3_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_schools.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\schools.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_kfraat_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\kfraat_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_checkbox_background.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\checkbox_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_tab_host_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\tab_host_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checked.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\checked.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_radioon.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\radioon.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_locations.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\locations.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_line.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\line.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_custom_dialog.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_kfraat_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_kfraat_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_saveoff.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\saveoff.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_addpoint.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\addpoint.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_maingard.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-sw600dp\\maingard.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_login.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg.jpg.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_ttabo3.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\ttabo3.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_battery_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_battery_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_addmore.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\addmore.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_bus_inofmation_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\bus_inofmation_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_geropix.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_geropix.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_addmore.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\addmore.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sync.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\sync.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_close.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_rest_pass.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\rest_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_battery_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\battery_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_taskeen.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\taskeen.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_motor_activity_last_days.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_motor_activity_last_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_other.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\other.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\menu_kfraat.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\menu\\kfraat.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_custom_dialog.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-sw600dp\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_taskeen.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\taskeen.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_takeef.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-xhdpi\\activity_takeef.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gallery.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-xhdpi\\gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_checkbox_background.xml.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\layout-sw600dp\\checkbox_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash.jpeg.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\splash.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gallery.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_normal.png.flat",
+        "source": "C:\\Users\\heshe\\OneDrive\\Desktop\\Android\\Hafil2-gard\\app\\src\\main\\res\\drawable-hdpi\\normal.png"
+    }
+]
